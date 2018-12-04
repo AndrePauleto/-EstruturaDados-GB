@@ -1,0 +1,5 @@
+usuario1 5000
+usuario2 2000
+usuario3 1000
+usuario4 500
+usuario5 100
